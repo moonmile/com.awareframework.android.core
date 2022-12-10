@@ -10,7 +10,7 @@ dependencies {
     androidTestImplementation "androidx.test.espresso:espresso-core:$espresso_core"
     androidTestImplementation "androidx.test:rules:$test_rules"
 
-    implementation "com.android.support:appcompat-v7:$support_libs"
+    // implementation "com.android.support:appcompat-v7:$support_libs"
 
     // ROOM
     implementation "android.arch.persistence.room:runtime:$room"
